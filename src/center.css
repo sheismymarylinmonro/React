@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Glory:ital,wght@0,100;0,400;0,500;1,100&display=swap');
+
+.center-block {
+    background-color: rgba(79, 67, 131, 0.445);
+}
+
+.main-text {
+
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+}
+
+.hello-text {
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+}
+
+.chart {
+    display: flex;
+    width: 65%;
+    }
